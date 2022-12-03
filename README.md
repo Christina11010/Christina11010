@@ -1,6 +1,7 @@
-- 👋 Hi, I'm Christina
-- 👀 I’m interested in computer science and psychology
-- 🌱 I’m currently learning data science, data analytics on my own and psychology in university
+👋 Hi, I'm Christina from China.
+👀 I’m a recent graduate student from the University of Melbourne, majoring in psychology.
+🌱 I am currently self-teaching to become a front-end developer.
+🥰 I would love to make friends who are in the same boat as me! Let's study together~
 
 
 <!---
