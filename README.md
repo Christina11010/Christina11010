@@ -1,4 +1,4 @@
-- 🌱 I am  self-teaching to become a software engineer.
+🌱 I am  self-teaching to become a software engineer.
 
 
 <!---
