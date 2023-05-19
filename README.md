@@ -8,11 +8,13 @@
 
 # 👩🏻‍💻 Tech Stack
 ### 🌐 Front-end Development
-<img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width="50" height="50">
+<img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="50" height="50"> <img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" width="50" height="50"> <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width="50" height="50">
 <img src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" width="50" height="50">
 <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="50" height="50"><img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width="50" height="50">
 <img src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" width="50" height="50">
 <img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" width="50" height="50">
+<img src="https://github.com/get-icon/geticon/raw/master/icons/angular-icon.svg" width="50" height="50"> 
+<img src="https://github.com/get-icon/geticon/raw/master/icons/vue.svg" width="50" height="50"> 
 
 ### 🗃️ Database
 <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" width="50" height="50"><img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" width="50" height="50">
@@ -31,8 +33,7 @@
 <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/25181517/190887571-ddd87d6e-77f8-41e7-b755-9b6d68e4fab7.png" width="50" height="50">
 
 <!-- I'm going to learn: 
-<img src="" width="50" height="50"> 
-TypeScript <img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" width="50" height="50"> 
+
 Angular <img src="https://github.com/get-icon/geticon/raw/master/icons/angular-icon.svg" width="50" height="50"> 
 Vue.js <img src="https://github.com/get-icon/geticon/raw/master/icons/vue.svg" width="50" height="50"> 
 jQuery <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/jquery.svg" width="50" height="50"> 
