@@ -1,9 +1,9 @@
 # 💫 About me
-👩🏻‍💻 2 years of self-taught programming experiences  
 🕸️ Freelancing web developer  
-👩🏻‍🎓 Current Master of IT student with BA degree in Psychology at the University of Melbourne  
+👩🏻‍💻 3 years of self-taught programming experiences  
+👩🏻‍🎓 Current Master of IT student with BA degree in Psychology at the University of Melbourne in Australia 
 👾 Strong passion for problem-solving and track record of delivering high-quality work on time  
-📥 Seeking freelancing opportunities that allow me to apply my expertise in JavaScript, HTML, and CSS  
+📥 Shoot me a message if you need a website made, whether it's a portfolio, or a website for your new business
 📧 How to reach me: [Email](christina0606yy@gmail.com) or [LinkedIn](https://www.linkedin.com/in/christina-yuan-39bb3416b/)
 
 # 👩🏻‍💻 Tech Stack
