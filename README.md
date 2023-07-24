@@ -41,9 +41,9 @@
 <img src="https://upload.wikimedia.org/wikipedia/en/1/1b/IBM_SPSS_v23.png" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/JASP_logo.svg/360px-JASP_logo.svg.png" width="50" height="50">
 
 ### 🔨 IDE
-<img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/25181517/190887571-ddd87d6e-77f8-41e7-b755-9b6d68e4fab7.png" width="50" height="50">  
+<img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="50" height="50"><img src="https://user-images.githubusercontent.com/25181517/190887571-ddd87d6e-77f8-41e7-b755-9b6d68e4fab7.png" width="50" height="50">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Eclipse-Dark.svg" width="50" height="50">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AIntelliJ_IDEA_Icon.svg&psig=AOvVaw3nXXt5zy4eb4JPZez32nU9&ust=1690327458959000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNiGotC-qIADFQAAAAAdAAAAABAD" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" width="50" height="50">
 
 
 <!-- <img src="" width="50" height="50"> -->
