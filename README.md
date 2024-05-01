@@ -24,7 +24,7 @@
 <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/json.svg" width="50" height="50">
 
 ### ☕️ Programming Languages
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" width="50" height="50">  
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" width="50" height="50"> 
 <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" width="50" height="50">
 
 ### 🗃️ Databases
