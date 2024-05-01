@@ -12,6 +12,8 @@
 <img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" width="50" height="50"> 
 <img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" width="50" height="50"> 
 <img src="https://github.com/get-icon/geticon/raw/master/icons/angular-icon.svg" width="50" height="50"> 
+<!-- <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/figma.svg" width="50" height="50"> -->
+
 
 ### 🟡 JavaScript 
 <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="50" height="50"> <img src="https://github.com/get-icon/geticon/raw/master/icons/vue.svg" width="50" height="50"> 
@@ -21,10 +23,8 @@
 <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/jquery.svg" width="50" height="50">
 <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/json.svg" width="50" height="50">
 
-### ☕️ Java 
+### ☕️ Programming Languages
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" width="50" height="50">
-
-### C
 <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" width="50" height="50">
 
 ### 🗃️ Databases
