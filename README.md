@@ -24,13 +24,10 @@
 <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/json.svg" width="50" height="50">
 
 ### ☕️ Programming Languages
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" width="50" height="50"><img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" width="50" height="50"><img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="50" height="50">
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" width="50" height="50"> <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="50" height="50">
 
 ### 🗃️ Databases
-<img src="https://github.com/Christina11010/Christina11010/assets/87953511/581d1003-7a10-41ba-815e-0ffecfcdaf53" width="50" height="50"> 
-<img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" width="50" height="50"> 
-<img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" width="50" height="50"> 
-<img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/bash.svg" width="50" height="50">
+<img src="https://github.com/Christina11010/Christina11010/assets/87953511/581d1003-7a10-41ba-815e-0ffecfcdaf53" width="50" height="50"> <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" width="50" height="50"> <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/bash.svg" width="50" height="50">
 
 ### 📊 Data Visualization
 <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/d3.svg" width="50" height="50"> <img src="https://shorturl.at/acprH" width="50" height="50"> 
