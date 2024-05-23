@@ -2,7 +2,7 @@
 🕸️ Freelance web developer  
 👩🏻‍🎓 Current Master of IT student with BA degree in Psychology at the University of Melbourne 
 👾 Strong passion for problem-solving and track record of delivering high-quality work on time  
-📧 How to reach me: [Email](christina0606yy@gmail.com) or [LinkedIn](https://www.linkedin.com/in/christina-yuan-39bb3416b/)
+📧 How to reach me: [LinkedIn](https://www.linkedin.com/in/christina-yuan-39bb3416b/)
 
 # 👩🏻‍💻 Tech Stack
 ### 🌐 Web Development
