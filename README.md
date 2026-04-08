@@ -1,6 +1,6 @@
 # 💫 About me
-🕸️ Freelance web developer  
-👩🏻‍🎓 Current Master of IT student with BA degree in Psychology at the University of Melbourne  
+🕸️ Software Developer
+👩🏻‍🎓 Master of IT student with BA degree in Psychology at the University of Melbourne  
 👾 Strong passion for problem-solving and track record of delivering high-quality work on time  
 📧 How to reach me: [LinkedIn](https://www.linkedin.com/in/christina-yuan-39bb3416b/)
 
